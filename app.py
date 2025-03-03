@@ -404,7 +404,7 @@ elif st.session_state.page == 3:
 
         ## 🚀 Cómo usar el archivo
         ### 1. Ejecutar en Binder
-        - **Haz clic en el enlace:** [Ejecutar en Binder](https://mybinder.org/v2/gh/Peter24K2G/DPPFFBB_APP/blob/main/GEE.ipynb/HEAD)
+        - **Haz clic en el enlace:** [Ejecutar en Binder](https://mybinder.org/v2/gh/Peter24K2G/DPPFFBB_APP.git/HEAD?urlpath=%2Fdoc%2Ftree%2FGEE.ipynb)
         - Espera a que se cargue el entorno (puede tomar unos minutos).
         - Ejecuta cada celda siguiendo las instrucciones.
 
